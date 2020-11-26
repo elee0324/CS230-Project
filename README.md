@@ -1,4 +1,4 @@
-## CS230 Final Project: Evaluating the Effectiveness of Adversarial Attacks on Traffic Light Color Classification Deep Neural Networks
+## Evaluating the Effectiveness of Adversarial Attacks on Traffic Light Color Classification Deep Neural Networks
 Fall 2020
 
 ### Abstract
